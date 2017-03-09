@@ -3,7 +3,7 @@ Monitoreo y Gestión de Redes
 
 ## REST API for managing Linux processes 
 
-REST API capable of managing Linux processes (list, execute, renice, kill). API was developed with Laravel 5.2 and was served with Apache2 (Basic HTTP AUTH)
+REST API capable of managing Linux processes (list, execute, renice, kill). API was developed with Laravel 4.2.22 and was served with Apache2 (Basic HTTP AUTH)
 
 ## Setup
 
